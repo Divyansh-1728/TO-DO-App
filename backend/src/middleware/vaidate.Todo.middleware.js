@@ -8,8 +8,5 @@ const vaidateTodo=(req,res,next) =>{
     next();
 };
 
-module.exports = {
-    validateTodo,
-    
-};
+
 
